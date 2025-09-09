@@ -7,6 +7,7 @@ body{
 .Titulo{
     color: rgba(39, 67, 192, 0.877);
     text-align: center;
+    white-space: normal;
 }
 footer{
     text-align: center;
